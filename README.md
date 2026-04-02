@@ -12,7 +12,7 @@ Currently, I am also a remote intern at DSFederal.
 
 ## Skills
 - **Languages:** Python, SQL, C++, JavaScript, PHP
-- **Tools:** Git, GitHub, VS Code, Anaconda
+- **Tools:** Git, GitHub, VS Code, Anaconda, GSEA
 - **Areas:** Machine Learning, Deep Learning, Data Analysis, Healthcare AI
 
 ## Current Interests
