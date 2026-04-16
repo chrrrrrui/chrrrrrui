@@ -12,7 +12,7 @@ Currently, I am also a remote intern at **DSFederal**.
 - 📊 Exploring **data analysis**, **federated learning**, and **healthcare AI applications**
 
 ## Skills
-- **Languages:** Python, SQL, C++, JavaScript, PHP
+- **Languages:** Python, SQL, C++, PHP
 - **Tools:** Git, GitHub, VS Code, Anaconda
 - **Areas:** Machine Learning, Deep Learning, Data Analysis, Biomedical Informatics, Healthcare AI
 
